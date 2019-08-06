@@ -24,7 +24,7 @@ func hookPanic(a interface{}) {
 
 //go:noinline
 func origingopanic(a interface{}) {
-	fmt.Println("if this prints , its a bug")
+	fmt.Println("func被内联，确认replacement，trampoline func包含 //go:noinline")
 	runtime.Goexit()
 }
 
