@@ -1,5 +1,6 @@
-# 如何使用
-### 基于
+# Hook golang panic
+
+### 如何使用
 ```go
 package main
 
