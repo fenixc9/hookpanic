@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"git.aimap.io/hao.liu/hookpanic"
+	"github.com/lforeverhao/hookpanic"
 )
 
 type PanicInfo struct {

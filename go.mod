@@ -1,5 +1,5 @@
-module git.aimap.io/hao.liu/hookpanic
+module github.com/lforeverhao/hookpanic
 
 go 1.12
 
-require git.aimap.io/hao.liu/hook v0.0.0-20190806085552-e202a7db598a
+require github.com/lforeverhao/hook v0.0.0-20200107092833-28d93acc4683

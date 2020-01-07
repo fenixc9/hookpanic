@@ -1,9 +1,7 @@
-git.aimap.io/hao.liu/hook v0.0.0-20190806085552-e202a7db598a h1:HAtlc7UepcqWRzrZ/ujpkrD98wRRWGeCtVzuQpkGz/E=
-git.aimap.io/hao.liu/hook v0.0.0-20190806085552-e202a7db598a/go.mod h1:NR8tTPM+ekbJtJ5EPtQN0iSg/ET2lIVwNDlndEJwveU=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/golang/arch v0.0.0-20190312162104-788fe5ffcd8c h1:zlsErYYhFmucyRlR1hzbH23MdeDlgkb9Z/9D6LM9luQ=
-github.com/golang/arch v0.0.0-20190312162104-788fe5ffcd8c/go.mod h1:flIaEI6LNU6xOCD5PaJvn9wGP0agmIOqjrtsKGRguv4=
+github.com/lforeverhao/hook v0.0.0-20200107092833-28d93acc4683 h1:7JyL7nFvgpFmShSYxHvQfufn0YBRE1pg6KGzMDLJhFk=
+github.com/lforeverhao/hook v0.0.0-20200107092833-28d93acc4683/go.mod h1:JhmICwxHNvnOjaJ77mtcqiC5HjPsnRdxhRmhbfON5zQ=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

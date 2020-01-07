@@ -2,7 +2,7 @@ package hookpanic
 
 import (
 	"fmt"
-	"git.aimap.io/hao.liu/hook"
+	"github.com/lforeverhao/hook"
 	"runtime"
 	_ "runtime"
 	"runtime/debug"
